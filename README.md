@@ -1,7 +1,6 @@
-# digital-wallet-dashboard-excel
 Excel-based Digital Wallet Transactions Dashboard | Case study on fintech data analysis with KPIs, charts, and insights. Includes dataset cleaning, visualization, and interactive dashboard walkthrough.
 
-# 📊 Digital Wallet Transactions Dashboard – Excel Case Study  
+#  Digital Wallet Transactions Dashboard – Excel Case Study  
 
 
 https://github.com/user-attachments/assets/e32f9101-dbd1-4c1b-8a41-c275b577e689
@@ -10,13 +9,6 @@ https://github.com/user-attachments/assets/e32f9101-dbd1-4c1b-8a41-c275b577e689
 
 📂 **Download Dashboard File:** [Digital_Wallet_Dashboard.xlsx](./dashboard/Digital_Wallet_Dashboard.xlsx)  
 📑 **Read Case Study:** [Digital Wallet Transactions -CaseStudy.pdf](https://github.com/user-attachments/files/22250589/Digital.Wallet.Transactions.-CaseStudy.pdf)
-
-
---- 
-<img width="1539" height="866" alt="image" src="https://github.com/user-attachments/assets/9688edfc-57e4-4aa8-b72c-a7847fbbfc17" /> 
-<img width="1154" height="648" alt="image" src="https://github.com/user-attachments/assets/6e5bfdfd-9060-43c6-918f-e18c35a2d2e2" /> 
-<img width="1164" height="670" alt="image" src="https://github.com/user-attachments/assets/23707b94-ffac-47f0-b989-ad6b63f8b51d" />
-<img width="1161" height="640" alt="image" src="https://github.com/user-attachments/assets/02e1c4dd-f40b-4307-9665-300e8ee21f8c" />
 
 
 --- 
@@ -98,8 +90,6 @@ Build an **interactive dashboard in Excel** that:
 - **Revenue Drivers** → Streaming Services, Water Bills, and Gas Bills dominate revenue  
 - **Urban Dominance** → Most transactions from urban users → wallet adoption strongest in cities
 
-  <img width="1158" height="615" alt="image" src="https://github.com/user-attachments/assets/ffc71810-bfdc-404c-b68b-8b37a985a300" />
-
 
 ---
 
@@ -115,7 +105,7 @@ I learned:
 - Add **time-based trends** (daily, monthly revenue & transactions)  
 - Compare **cashback vs transaction fees** (cost vs earnings)  
 - Analyze **user growth & activity over time**  
-- Build next version in **Power BI or Tableau** for more advanced interactivity  
+- Build the next version in **Power BI or Tableau** for more advanced interactivity  
 
 ---
 
