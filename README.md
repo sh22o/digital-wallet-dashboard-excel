@@ -1,6 +1,6 @@
-Excel-based Digital Wallet Transactions Dashboard | Case study on fintech data analysis with KPIs, charts, and insights. Includes dataset cleaning, visualization, and interactive dashboard walkthrough.
 
 #  Digital Wallet Transactions Dashboard – Excel Case Study  
+Excel-based Digital Wallet Transactions Dashboard | Case study on fintech data analysis with KPIs, charts, and insights. Includes dataset cleaning, visualization, and interactive dashboard walkthrough.
 
 
 https://github.com/user-attachments/assets/e32f9101-dbd1-4c1b-8a41-c275b577e689
