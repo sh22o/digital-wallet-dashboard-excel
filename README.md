@@ -103,11 +103,6 @@ I learned:
 - Defining KPIs for fintech products  
 - Designing dashboards that communicate **business insights** clearly
 
-  -
-  📂 **Download Dashboard File:** [Digital_Wallet_Dashboard.xlsx](./dashboard/Digital_Wallet_Dashboard.xlsx)  
-  📑 **Read Case Study:** [Digital Wallet Transactions -CaseStudy.pdf](https://github.com/user-attachments/files/22250589/Digital.Wallet.Transactions.-CaseStudy.pdf)
-  -
-
 ### Next Steps  
 - Add **time-based trends** (daily, monthly revenue & transactions)  
 - Compare **cashback vs transaction fees** (cost vs earnings)  
