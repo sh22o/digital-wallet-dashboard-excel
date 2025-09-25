@@ -6,12 +6,6 @@ Excel-based Digital Wallet Transactions Dashboard | Case study on fintech data a
 https://github.com/user-attachments/assets/e32f9101-dbd1-4c1b-8a41-c275b577e689
 
 --- 
-
-📂 **Download Dashboard File:** [Digital_Wallet_Dashboard.xlsx](./dashboard/Digital_Wallet_Dashboard.xlsx)  
-📑 **Read Case Study:** [Digital Wallet Transactions -CaseStudy.pdf](https://github.com/user-attachments/files/22250589/Digital.Wallet.Transactions.-CaseStudy.pdf)
-
-
---- 
 ![Frame](https://github.com/user-attachments/assets/31063cb0-8f54-4591-8e9b-791c314a01ae)
 ![Frame-1](https://github.com/user-attachments/assets/46785696-3696-4759-9d22-232cfa61d0cb)
 ![Frame-2](https://github.com/user-attachments/assets/1fc5cec7-dc01-42b7-ae2c-debd942ff5f4)
@@ -107,7 +101,12 @@ This was my **first professional attempt** at building a financial transactions 
 I learned:  
 - Cleaning and structuring financial data  
 - Defining KPIs for fintech products  
-- Designing dashboards that communicate **business insights** clearly  
+- Designing dashboards that communicate **business insights** clearly
+
+  ---
+  📂 **Download Dashboard File:** [Digital_Wallet_Dashboard.xlsx](./dashboard/Digital_Wallet_Dashboard.xlsx)  
+  📑 **Read Case Study:** [Digital Wallet Transactions -CaseStudy.pdf](https://github.com/user-attachments/files/22250589/Digital.Wallet.Transactions.-CaseStudy.pdf)
+  --- 
 
 ### Next Steps  
 - Add **time-based trends** (daily, monthly revenue & transactions)  
