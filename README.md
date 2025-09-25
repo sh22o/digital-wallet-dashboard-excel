@@ -12,7 +12,15 @@ https://github.com/user-attachments/assets/e32f9101-dbd1-4c1b-8a41-c275b577e689
 
 
 --- 
-
+![Frame](https://github.com/user-attachments/assets/31063cb0-8f54-4591-8e9b-791c314a01ae)
+![Frame-1](https://github.com/user-attachments/assets/46785696-3696-4759-9d22-232cfa61d0cb)
+![Frame-2](https://github.com/user-attachments/assets/1fc5cec7-dc01-42b7-ae2c-debd942ff5f4)
+![Frame-3](https://github.com/user-attachments/assets/72114242-112e-438f-9690-77e003f01b78)
+![Frame-4](https://github.com/user-attachments/assets/155e5c81-06a0-44e8-b818-4394a3a16dc2)
+![Frame-5](https://github.com/user-attachments/assets/a3f15ca7-d1f0-4518-aab5-0dd38a6aa052)
+![Frame-6](https://github.com/user-attachments/assets/b762b9f8-f7bd-495b-9975-db7d63447f1f)
+![Frame-7](https://github.com/user-attachments/assets/bac1adda-3a57-4060-aeca-b4267230de99)
+--- 
 ## 📌 Project Overview  
 This is my **first interactive dashboard project**, created as a case study to practice **data analysis and visualization using Excel**.  
 The project simulates a **digital wallet (fintech app)** environment where users perform transactions, earn cashback, and collect loyalty points.  
